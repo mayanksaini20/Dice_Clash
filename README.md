@@ -34,3 +34,44 @@ Clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/your-username/dice-clash.git
+
+### 2. Navigate to the Project Directory
+
+Move into the project folder:
+
+```bash
+cd dice-clash
+
+### 3. Open in Browser
+Open the index.html file in your preferred web browser to start playing the game:
+
+- You can simply double-click on index.html or right-click and select "Open with" to choose your browser.
+
+
+## Technologies Used
+- **HTML5**: Provides the structure of the game and player panels.
+- **CSS3 (with Google Fonts)**: Creates a clean, attractive layout and responsive design, including animations for player turns and score updates.
+- **JavaScript (ES6)**: Powers the game’s logic, including dice rolls, score updates, player switching, and the win condition.
+- **Git/GitHub**: Used for version control and code collaboration.
+
+## Contributing
+
+We welcome contributions from developers who want to improve the game! Here's how you can contribute:
+
+1. **Fork the repository**: Click on the "Fork" button at the top-right corner of this page to create a copy of the repository in your GitHub account.
+
+2. **Create a new branch for your feature or bug fix**: In your forked repository, create a new branch to isolate your changes:
+   ```bash
+   git checkout -b feature-name
+
+3. **Make your changes and commit them**: After making the necessary changes, commit them with a descriptive message:
+    ```bash
+    git commit -m "Add some feature"
+
+4. **Push the changes to your branch**: Push your committed changes to the branch in your forked repository:
+    ```bash
+    git push origin feature-name
+
+5. **Open a pull request**: Go back to the original repository, click on the "Pull Requests" tab, and then click "New Pull Request." Select your branch, describe the changes you’ve made, and submit your pull request.
+
+Feel free to submit pull requests, suggest new features, or report bugs. All contributions are appreciated!
